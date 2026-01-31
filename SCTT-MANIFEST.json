@@ -1,0 +1,9 @@
+{
+  "id": "SCTT-2026-33-0003",
+  "project": "CTT-FortiVortex-SSO",
+  "provenance": "SimoesCTT Research Group",
+  "mathematical_proof": "https://github.com/SimoesCTT/CTT-Navier-Stokes-Solver-",
+  "vulnerability_type": "Temporal Session Collision",
+  "obsoletes": ["CVE-2026-24858", "CVE-2025-59718"],
+  "status": "Verified Sovereign Vector"
+}
